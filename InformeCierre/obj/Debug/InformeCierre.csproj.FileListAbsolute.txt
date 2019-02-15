@@ -1,0 +1,7 @@
+C:\Users\Nicolás Vega\Documents\Visual Studio 2015\InformeCierre\InformeCierre\InformeCierre\bin\Debug\InformeCierre.exe.config
+C:\Users\Nicolás Vega\Documents\Visual Studio 2015\InformeCierre\InformeCierre\InformeCierre\obj\Debug\InformeCierre.csprojResolveAssemblyReference.cache
+C:\Users\Nicolás Vega\Documents\Visual Studio 2015\InformeCierre\InformeCierre\InformeCierre\bin\Debug\InformeCierre.exe
+C:\Users\Nicolás Vega\Documents\Visual Studio 2015\InformeCierre\InformeCierre\InformeCierre\bin\Debug\InformeCierre.pdb
+C:\Users\Nicolás Vega\Documents\Visual Studio 2015\InformeCierre\InformeCierre\InformeCierre\obj\Debug\InformeCierre.exe
+C:\Users\Nicolás Vega\Documents\Visual Studio 2015\InformeCierre\InformeCierre\InformeCierre\obj\Debug\InformeCierre.pdb
+C:\Users\Nicolás Vega\Documents\Visual Studio 2015\InformeCierre\InformeCierre\InformeCierre\bin\Debug\log4net.dll
